@@ -117,6 +117,10 @@ Based on the data, there is still a downward trend for the next few years despit
 **it was removed from the data used above.**
 **The other assumption was the gender differences which was shown to be not true.** 
 
+### Session Info
+```{r session_info}
+sessionInfo()
+```
 
 ```{r pressure, echo=FALSE, fig.cap="Scan to see the 75th precinct", out.width = '100%'}
 knitr::include_graphics("qrcode_www.google.com.png")
